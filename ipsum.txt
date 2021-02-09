@@ -1,6 +1,0 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In imperdiet ullamcorper gravida. Integer pretium consequat odio vel condimentum. 
-Mauris mollis volutpat iaculis. Aenean ac leo nulla. Sed quam mauris, facilisis quis erat et, hendrerit elementum sem. Phasellus urna urna, maximus ac turpis 
-quis, malesuada vehicula ipsum. Fusce eu tellus pulvinar, vulputate augue a, fermentum augue.
-Vivamus cursus eros non sem iaculis tincidunt. Nullam dolor est, aliquet
-vitae lectus ac, viverra scelerisque quam. Sed in enim cursus, mattis diam quis, faucibus nisi. 
-Donec ut efficitur sem. Etiam eu justo facilisis purus maximus scelerisque.
